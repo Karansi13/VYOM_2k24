@@ -1,6 +1,6 @@
 # Vyom '24 Official website
 
-See https://www.Vyom.org for the live website.
+See https://vyom.rungta.ac.in for the live website.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
