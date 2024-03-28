@@ -65,7 +65,7 @@ export default function EventLinks() {
 
                 <tr>
                   <td scope="row" data-label="Football">
-                    Football Compitition
+                    Football Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -79,7 +79,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Carrom">
-                    Carrom Compitition
+                    Carrom Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -93,7 +93,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="BasketBall">
-                    BasketBall Compitition
+                    BasketBall Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -107,7 +107,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="VolleyBall">
-                    VolleyBall Compitition
+                    VolleyBall Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -121,7 +121,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Chess">
-                    Chess Compitition
+                    Chess Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -135,7 +135,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Solo-Dance">
-                    Solo-Dance Compitition
+                    Solo-Dance Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -149,7 +149,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Group-Dance">
-                    Group-Dance Compitition
+                    Group-Dance Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -163,7 +163,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Face-Battle">
-                    Face-Battle Compitition
+                    Face-Battle Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -177,7 +177,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Solo-Song">
-                    Solo-Song Compitition
+                    Solo-Song Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -191,7 +191,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Group-Song">
-                    Group-Song Compitition
+                    Group-Song Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -219,7 +219,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Reel-Making">
-                    Reel-Making Compitition
+                    Reel-Making Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
@@ -247,7 +247,7 @@ export default function EventLinks() {
                 </tr>
                 <tr>
                   <td scope="row" data-label="Story Telling">
-                    Story Telling Compitition
+                    Story Telling Competition
                   </td>
                   <td data-label="Registration Link" className="underline">
                     <a
